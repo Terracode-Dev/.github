@@ -1,6 +1,8 @@
 ## Hello, World!. 👋
 🙋‍ Welcome to the Github Organization of `terrians`, Where all the `Terra FOSS` Collabarations live.
-
+<div align="center">
+  <img src="https://giphy.com/embed/SWoSkN6DxTszqIKEqv" width="600" height="300"/>
+</div>
 <!--
 
 **Here are some ideas to get you started:**
