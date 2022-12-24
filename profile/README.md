@@ -1,5 +1,8 @@
-## Hello, World!. 👋
-🙋‍ Welcome to the Github Organization of `terrians`, Where all the `Terra FOSS` Collabarations live.
+# Hello, World!. 👋
+### 🙋‍ Welcome to the Github Organization of `terrians`, Where all the `Terra FOSS` Collabarations live.
+
+  ![alt text](https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif)
+
 <!--
 
 **Here are some ideas to get you started:**
